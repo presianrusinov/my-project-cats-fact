@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-project-cats-fact/static/css/main.073c9b0a.css",
+    "main.js": "/my-project-cats-fact/static/js/main.8da8e9cc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-project-cats-fact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/my-project-cats-fact/index.html",
+    "main.073c9b0a.css.map": "/my-project-cats-fact/static/css/main.073c9b0a.css.map",
+    "main.8da8e9cc.js.map": "/my-project-cats-fact/static/js/main.8da8e9cc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-project-cats-fact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8da8e9cc.js"
+  ]
+}
